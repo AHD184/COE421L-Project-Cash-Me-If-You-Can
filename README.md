@@ -87,10 +87,10 @@ Hardware inputs → Arduino Mega 2560 → ZigBee/XBee → Java Swing GUI
 
 ## Team
 
-- Arjunraj Sasikumar
+- Adrish Danka 
 - Zainulabdeen Lalmiya
-- Adrish Danka
 - Asadullah Sameer
+- Arjunraj Sasikumar
 
 The team divided work across Arduino game logic, hardware integration, the Java GUI, testing, and documentation.
 
